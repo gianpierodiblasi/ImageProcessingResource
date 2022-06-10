@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+  <ExtensionPackages>
+    <ExtensionPackage 
+      name="ImageProcessingResource"
+      packageVersion="0.11.0"
+      vendor="Gianpiero Di Blasi"
+      description="Extension to manage images"
+      minimumThingWorxVersion="8.3.0"
+      haCompatible="true"
+      dependsOn="">
+      
+      <JarResources>
+        <FileResource description="" file="imageprocessingresource.jar" type="JAR"/>
+      </JarResources>
+    </ExtensionPackage>
+  </ExtensionPackages>
+  
+  <Resources>
+    <Resource aspect.isCreatable="false" aspect.isEditableExtensionObject="false" className="com.thingworx.extension.custom.imageprocessing.ImageProcessingResource" description="" name="ImageProcessingResource"/>
+  </Resources>
+</Entities>
