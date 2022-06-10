@@ -3,7 +3,7 @@
   <ExtensionPackages>
     <ExtensionPackage 
       name="ImageProcessingResource"
-      packageVersion="0.11.0"
+      packageVersion="1.0.0"
       vendor="Gianpiero Di Blasi"
       description="Extension to manage images"
       minimumThingWorxVersion="8.3.0"
